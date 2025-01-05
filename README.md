@@ -1,2 +1,3 @@
 # lambda-gen-ia-image
-lambda-gen-ia-image
+
+Poc for use aws bedrock 
